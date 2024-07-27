@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\vikto\source\repos\TPCurs\TPCurs\main.cpp(39,36): warning C4101: 'e': unreferenced local variable
+  TPCurs.vcxproj -> C:\Users\vikto\source\repos\TPCurs\Debug\TPCurs.exe

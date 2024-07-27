@@ -1,0 +1,4 @@
+SAVEDICT_FILE
+A 9
+D 3
+R 4
